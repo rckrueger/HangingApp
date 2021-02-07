@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "39C25556-EDD2-47CC-BDE4-4528E5913009"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "13CA6C78-3F5F-42C0-AB95-F5021A85BC77"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HangingApp/RealmManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "initRealms(onCompletion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "13CA6C78-3F5F-42C0-AB95-F5021A85BC77 - f70a213bcaba18b1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HangingApp.RealmManager.initRealms(onCompletion: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "HangingApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/krueger/Devel/HangingApp/HangingApp/RealmManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "492">
+               </Location>
+               <Location
+                  uuid = "13CA6C78-3F5F-42C0-AB95-F5021A85BC77 - 80336ebb1e171d0c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;RealmSwift.Realm, Swift.Error&gt;) -&gt; () in HangingApp.RealmManager.initRealms(onCompletion: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "HangingApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/krueger/Devel/HangingApp/HangingApp/RealmManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "239">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F1B7F0A1-1B08-4689-9DE5-3C8669AC1FC7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HangingApp/RealmManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "login(_:password:onCompletion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F1B7F0A1-1B08-4689-9DE5-3C8669AC1FC7 - 14ef415b72e3605b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HangingApp.RealmManager.login(_: Swift.String, password: Swift.String, onCompletion: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "HangingApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/krueger/Devel/HangingApp/HangingApp/RealmManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "239">
+               </Location>
+               <Location
+                  uuid = "F1B7F0A1-1B08-4689-9DE5-3C8669AC1FC7 - 5890066f78d936a0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;__C.RLMUser, Swift.Error&gt;) -&gt; () in HangingApp.RealmManager.login(_: Swift.String, password: Swift.String, onCompletion: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "HangingApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/krueger/Devel/HangingApp/HangingApp/RealmManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "274">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "28679DA7-F2A6-40D9-AB74-5E33139DBE11"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HangingApp/RealmManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "login(_:password:onCompletion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "28679DA7-F2A6-40D9-AB74-5E33139DBE11 - 5890066f78d93683"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;__C.RLMUser, Swift.Error&gt;) -&gt; () in HangingApp.RealmManager.login(_: Swift.String, password: Swift.String, onCompletion: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "HangingApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/krueger/Devel/HangingApp/HangingApp/RealmManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "296">
+               </Location>
+               <Location
+                  uuid = "28679DA7-F2A6-40D9-AB74-5E33139DBE11 - 4dd938babf6dafd1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (Swift.Result&lt;__C.RLMUser, Swift.Error&gt;) -&gt; () in HangingApp.RealmManager.login(_: Swift.String, password: Swift.String, onCompletion: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "HangingApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/krueger/Devel/HangingApp/HangingApp/RealmManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "103">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "75007477-7C82-4689-8836-8B7D8CDB3278"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HangingApp/RealmManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "initRealms(onCompletion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "75007477-7C82-4689-8836-8B7D8CDB3278 - 80336ebb1e171daf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;RealmSwift.Realm, Swift.Error&gt;) -&gt; () in HangingApp.RealmManager.initRealms(onCompletion: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "HangingApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/krueger/Devel/HangingApp/HangingApp/RealmManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "356">
+               </Location>
+               <Location
+                  uuid = "75007477-7C82-4689-8836-8B7D8CDB3278 - 528491d0118fa9d0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;RealmSwift.Realm, Swift.Error&gt;) -&gt; () in closure #1 (Swift.Result&lt;RealmSwift.Realm, Swift.Error&gt;) -&gt; () in HangingApp.RealmManager.initRealms(onCompletion: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "HangingApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/krueger/Devel/HangingApp/HangingApp/RealmManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "235">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "99EB6B8C-D895-4A5B-AB7C-E1496E98563B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HangingApp/RealmManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "91"
+            endingLineNumber = "91"
+            landmarkName = "initRealms(onCompletion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7727EAC5-63BE-4DA0-A023-12DB6F76CFD4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HangingApp/RealmManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "85"
+            endingLineNumber = "85"
+            landmarkName = "initRealms(onCompletion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9E8CF897-9379-4AB0-8A96-AB088EFBCCC2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HangingApp/RealmManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "initRealms(onCompletion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9E8CF897-9379-4AB0-8A96-AB088EFBCCC2 - 528491d0118fa9d0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;RealmSwift.Realm, Swift.Error&gt;) -&gt; () in closure #1 (Swift.Result&lt;RealmSwift.Realm, Swift.Error&gt;) -&gt; () in HangingApp.RealmManager.initRealms(onCompletion: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "HangingApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/krueger/Devel/HangingApp/HangingApp/RealmManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "235">
+               </Location>
+               <Location
+                  uuid = "9E8CF897-9379-4AB0-8A96-AB088EFBCCC2 - 528491d0118fa9d0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;RealmSwift.Realm, Swift.Error&gt;) -&gt; () in closure #1 (Swift.Result&lt;RealmSwift.Realm, Swift.Error&gt;) -&gt; () in HangingApp.RealmManager.initRealms(onCompletion: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "HangingApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/krueger/Devel/HangingApp/HangingApp/RealmManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "260">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
